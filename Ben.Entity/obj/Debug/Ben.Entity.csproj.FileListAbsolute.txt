@@ -1,0 +1,5 @@
+F:\GithubVS2013\Sofa\Ben.Entity\bin\Debug\Ben.Entity.dll
+F:\GithubVS2013\Sofa\Ben.Entity\bin\Debug\Ben.Entity.pdb
+F:\GithubVS2013\Sofa\Ben.Entity\obj\Debug\Ben.Entity.dll
+F:\GithubVS2013\Sofa\Ben.Entity\obj\Debug\Ben.Entity.pdb
+F:\GithubVS2013\Sofa\Ben.Entity\obj\Debug\Ben.Entity.csprojResolveAssemblyReference.cache
